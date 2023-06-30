@@ -7,3 +7,4 @@ This is a simple light and dark mode switcher. It uses the [localStorage](https:
 Here we have project screenshot :
 
 ![screenshot](screenshot.jpeg)
+![screenshot2](screenshot2.jpeg)
