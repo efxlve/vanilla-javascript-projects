@@ -7,3 +7,6 @@ This is a simple joke teller app that uses the [JokeAPI](https://sv443.net/jokea
 Here we have project screenshot :
 
 ![screenshot](screenshot.jpeg)
+
+![screenshot](screenshot2.jpeg)
+
