@@ -8,5 +8,5 @@ Here we have project screenshot :
 
 ![screenshot](screenshot.jpeg)
 
-![screenshot](screenshot2.jpeg)
+![screenshot2](screenshot2.jpeg)
 
