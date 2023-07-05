@@ -13,5 +13,5 @@ Number guessing game where you speak your guess into the microphone using the sp
 Here we have project screenshot :
 
 ![screenshot](screenshot.jpeg)
-![screenshot](screenshot.jpeg)
-![screenshot](screenshot.jpeg)
+![screenshot](screenshot2.jpeg)
+![screenshot](screenshot3.jpeg)
