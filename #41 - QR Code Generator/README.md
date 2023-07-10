@@ -9,6 +9,7 @@ This is a simple QR Code generator app made with Vanilla JavaScript.
 - The user can change the color of the QR code.
 - The user can change the background color of the QR code.
 - The user can change the size of the QR code.
+- The user can share the QR code.
 
 ## Screenshot
 Here we have project screenshot :
