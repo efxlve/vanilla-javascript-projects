@@ -6,7 +6,6 @@ This is a simple translator app made with Vanilla JavaScript. Using API from [My
 ## Features
 - The user can type a word.
 - The user can see the translation of the word.
-- The user can see the number of words translated.
 
 ## Screenshot
 Here we have project screenshot :
