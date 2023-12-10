@@ -1,6 +1,4 @@
-# #37
-
-## Pixel Art Generator
+# Pixel Art Generator
 This project provides a simple and fun interface to create pixel art.
 
 ## Features

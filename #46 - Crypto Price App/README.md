@@ -1,6 +1,4 @@
-# #46
-
-## Crypto Price App
+# Crypto Price App
 This is a simple crypto price app made with Vanilla JavaScript. Using API from [CoinGecko](https://www.coingecko.com/en/api).
 
 ## Features

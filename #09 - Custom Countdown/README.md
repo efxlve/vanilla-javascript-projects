@@ -1,6 +1,4 @@
-# #09
-
-## Custom Countdown
+# Custom Countdown
 A simple countdown timer that can be set to any date.
 
 ## Screenshot

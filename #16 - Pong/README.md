@@ -1,6 +1,4 @@
-# #16
-
-## Pong
+# Pong
 A simple pong game made with HTML5 canvas and JavaScript.
 
 ## Screenshot

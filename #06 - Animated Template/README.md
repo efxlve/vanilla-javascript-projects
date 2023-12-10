@@ -1,6 +1,4 @@
-# #06
-
-## Animated Template
+# Animated Template
 This project is a simple animated template that uses the AOS library to animate the elements. The project uses Creative Tim Tailwind Starter kit.
 
 ## Screenshot

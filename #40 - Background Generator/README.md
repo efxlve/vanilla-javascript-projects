@@ -1,6 +1,4 @@
-# #40
-
-## Background Generator
+# Background Generator
 This is a simple background generator app made with Vanilla JavaScript.
 
 ## Features

@@ -1,6 +1,4 @@
-# #39
-
-## Password Generator
+# Password Generator
 This is a simple password generator app that uses Vanilla JavaScript. It allows the user to generate a random password based on the length and criteria they choose.
 
 ## Features

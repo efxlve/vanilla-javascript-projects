@@ -1,6 +1,4 @@
-# #07
-
-## Animated Navigation
+# Animated Navigation
 This project is an simple of creating an animated and responsive navigation. It also includes a floating action button that changes CSS variables.
 
 ## Screenshot

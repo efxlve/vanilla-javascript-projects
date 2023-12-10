@@ -1,6 +1,4 @@
-# #35
-
-## Sortable List
+# Sortable List
 Display a scrambled list that can be sorted with drag and drop and then check the order of the list.
 
 ## Project Specifications

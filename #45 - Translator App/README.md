@@ -1,6 +1,4 @@
-# #45
-
-## Translator App
+# Translator App
 This is a simple translator app made with Vanilla JavaScript. Using API from [MyMemory](https://mymemory.translated.net/).
 
 ## Features

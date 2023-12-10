@@ -1,6 +1,4 @@
-# #41
-
-## QR Code Generator
+# QR Code Generator
 This is a simple QR Code generator app made with Vanilla JavaScript.
 
 ## Features

@@ -1,6 +1,4 @@
-# #11
-
-## Video Player
+# Video Player
 This project aims to create a custom video player using HTML, CSS and Vanilla JavaScript. The video player has basic functions such as playing, pausing, adjusting the volume, going full screen and fast-forwarding and rewinding the video.
 
 ## Screenshot

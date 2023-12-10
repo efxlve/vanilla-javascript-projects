@@ -1,6 +1,4 @@
-# #30
-
-## Memory Cards
+# Memory Cards
 Flash card app for learning. Display, add and remove memory cards with questions and answers to help remember things.
 
 ## Project Specifications

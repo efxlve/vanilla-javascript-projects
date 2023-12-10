@@ -1,6 +1,4 @@
-# #42
-
-## Device Battery Detector
+# Device Battery Detector
 This is a simple device battery detector app made with Vanilla JavaScript.
 
 ## Features

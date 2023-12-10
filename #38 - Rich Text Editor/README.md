@@ -1,6 +1,4 @@
-# #38
-
-## Rich Text Editor
+# Rich Text Editor
 This project aims to create a rich text editor using Vanilla JavaScript. The rich text editor allows users to format their texts, add options such as color, size, style, alignment and save their texts as HTML.
 
 ## Features

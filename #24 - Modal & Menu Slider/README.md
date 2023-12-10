@@ -1,6 +1,4 @@
-# #24
-
-## Modal & Menu Slider
+# Modal & Menu Slider
 Simple landing page with sliding menu and modal built with HTML, CSS and JavaScript.
 
 ## Project Specifications

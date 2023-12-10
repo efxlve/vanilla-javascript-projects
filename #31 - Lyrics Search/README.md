@@ -1,6 +1,4 @@
-# #31
-
-## Lyrics Search
+# Lyrics Search
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API and display in the DOM.
 
 ## Project Specifications

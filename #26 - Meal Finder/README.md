@@ -1,6 +1,4 @@
-# #26
-
-## Meal Finder
+# Meal Finder
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API.
 
 ## Project Specifications

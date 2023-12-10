@@ -1,6 +1,4 @@
-# #47
-
-## Todo App
+# Todo App
 This is a simple todo app made with Vanilla JavaScript.
 
 ## Features

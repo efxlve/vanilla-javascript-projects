@@ -47,9 +47,9 @@ h1 {
 }
 
 /* Media Query: Large Smartphone */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   h1 {
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .image-container {

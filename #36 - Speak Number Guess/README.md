@@ -1,6 +1,4 @@
-# #36
-
-## Speak Number Guess
+# Speak Number Guess
 Number guessing game where you speak your guess into the microphone using the speech recognition API.
 
 ## Project Specifications

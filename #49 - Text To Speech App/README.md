@@ -1,6 +1,4 @@
-# #49
-
-## Text To Speech App
+# Text To Speech App
 This is a simple text to speech app using Vanilla JavaScript.
 
 ## Features

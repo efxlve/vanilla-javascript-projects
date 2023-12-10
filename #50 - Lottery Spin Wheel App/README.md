@@ -1,6 +1,4 @@
-# #50
-
-## Lottery Spin Wheel App
+# Lottery Spin Wheel App
 This is a simple lottery spin wheel app using Vanilla JavaScript.
 
 ## Features

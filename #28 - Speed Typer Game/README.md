@@ -1,6 +1,4 @@
-# #28
-
-## Speed Typer Game
+# Speed Typer Game
 Game to beat the clock by typing random words.
 
 ## Project Specifications

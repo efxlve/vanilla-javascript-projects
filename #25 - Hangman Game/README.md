@@ -1,6 +1,4 @@
-# #25
-
-## Hangman Game
+# Hangman Game
 Hangman is a game where you have to guess the word by guessing the letters that make up the word. You have 6 chances to guess the word. If you can't guess the word in 6 chances, you lose the game. If you can guess the word, you win the game.
 
 ## Project Specifications

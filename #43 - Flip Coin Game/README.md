@@ -1,6 +1,4 @@
-# #43
-
-## Flip Coin Game
+# Flip Coin Game
 This is a simple flip coin game made with Vanilla JavaScript. 
 
 ## Features

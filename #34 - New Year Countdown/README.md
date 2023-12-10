@@ -1,6 +1,4 @@
-# #34
-
-## New Year Countdown
+# New Year Countdown
 Landing page that counts down from the current date to the next new year using vanilla JavaScript, HTML and CSS.
 
 ## Project Specifications

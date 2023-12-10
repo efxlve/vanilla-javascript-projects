@@ -1,6 +1,4 @@
-# #32
-
-## Relaxer App
+# Relaxer App
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out using CSS animations and JavaScript.
 
 ## Project Specifications

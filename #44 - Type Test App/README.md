@@ -1,6 +1,4 @@
-# #44
-
-## Type Test App
+# Type Test App
 This is a simple type test app made with Vanilla JavaScript. Using API from [Quotable](https://github.com/lukePeavey/quotable).
 
 ## Features

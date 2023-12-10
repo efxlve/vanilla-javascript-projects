@@ -43,3 +43,26 @@ button:active {
   transform: translateY(3px);
   box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.3);
 }
+
+.mobile-message {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .button-container {
+      display: none;
+  }
+
+  .mobile-message {
+      position: absolute;
+      height: 100vh;
+      width: 100%;
+      background-color: rgb(0, 0, 0);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      z-index: 100;
+  }
+}
